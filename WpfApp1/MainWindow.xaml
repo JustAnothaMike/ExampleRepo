@@ -16,7 +16,7 @@
             Padding="0,-9,0,-5"
             Height="24"
             materialDesign:HintAssist.Hint="test"
-            materialDesign:HintAssist.FloatingOffset="0,-50">
+            materialDesign:HintAssist.FloatingOffset="0,-20">
             test
         </TextBox>
     </Grid>
